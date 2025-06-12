@@ -5,9 +5,9 @@
 </picture>
 
 # Hi 👋🏻, I'm Arvin,
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arvin-garcia-647509364/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvin-garcia/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arvin.garcia.dev@gmail.com) 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-%23CB3837.svg?logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/arvingarcia) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-%23CB3837.svg?logo=ko-fi&logoColor=white)](https://ko-fi.com/arvingarcia) 
 
 I'm currently learning and growing as a software developer, with a goal of becoming a creative developer — building cool, interactive experiences on the web using tools like Three.js, GSAP, Blender, and more.
 
