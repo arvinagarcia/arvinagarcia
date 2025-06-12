@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvinagarcia/arvinagarcia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvinagarcia/arvinagarcia/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arvinagarcia/arvinagarcia/output/github-snake.svg" />
+</picture>
+
 # Hi 👋🏻, I'm Arvin,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arvin-garcia-647509364/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arvin.garcia.dev@gmail.com) 
@@ -46,9 +52,3 @@ If you're on a similar path or just curious about my journey, feel free to follo
 ![](https://github-readme-stats.vercel.app/api?username=arvinagarcia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=arvinagarcia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinagarcia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arvinagarcia/arvinagarcia/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arvinagarcia/arvinagarcia/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arvinagarcia/arvinagarcia/output/github-snake.svg" />
-</picture>
