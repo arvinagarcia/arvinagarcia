@@ -65,9 +65,3 @@ If you're on a similar path or just curious about my journey, feel free to follo
 ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat)
-
----
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=arvinagarcia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arvinagarcia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinagarcia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
